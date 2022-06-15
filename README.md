@@ -1,4 +1,4 @@
-# cpp_starter_project
+# cpp_starter_project 
 
 ![CI](https://github.com/cpp-best-practices/cpp_starter_project/workflows/ci/badge.svg)
 [![codecov](https://codecov.io/gh/cpp-best-practices/cpp_starter_project/branch/main/graph/badge.svg)](https://codecov.io/gh/cpp-best-practices/cpp_starter_project)
